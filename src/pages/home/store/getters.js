@@ -1,0 +1,7 @@
+
+/**
+ * getters.js 
+ */
+export default {
+    
+}
